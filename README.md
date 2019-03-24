@@ -7,5 +7,5 @@ W ramach projektu napisanego w Jupyter Notebook (plik: pierwszy-projekt.ipynb or
 * Jaka była liczba ataków terrorystycznych w danym dniu miesiaca?
 * Jakie bylo top 7 regionow na swiecie z najwieksza liczba przestepstw w 1970 roku?
 * Jak nazywały sie 5 najbardziej aktywnych grup przestepczych w badanym 1970 roku?
-* Ile było ataków terrorystycznych danego typu w konkretnym dniu miesiąca ?
+* Ile było ataków terrorystycznych danego typu w konkretnym dniu miesiąca w 1970 roku?
 
